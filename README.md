@@ -15,19 +15,6 @@ Here is a list of books that I recommend across various topics. In most cases, I
 
 ## Software Engineering, Systems Engineering
 
-### Design Patterns
-| Author(s) | Title | ISBN-13 |
-| --------- | ----- | ------- |
-| Eric Gamma, Richard Helm, Ralph Johnson, John Vlissides | [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1649177187&sr=8-1) | 978-0201633610 |
-| Frank Bushmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal | [Pattern Oriented Software Architecture: A System of Patterns](https://www.amazon.ca/Pattern-Oriented-Software-Architecture-System-Patterns/dp/0471958697/ref=sr_1_2?keywords=pattern-oriented+software+architecture&qid=1649177513&sprefix=pattern+orient%2Caps%2C128&sr=8-2) | 978-0471958697 |
-| Douglas Schmidt, Michael Stal, Hans Rohnert, Frank Buschmann | [Pattern-Oriented Software Architecture, Patterns for Concurrent and Networked Objects](https://www.amazon.ca/Pattern-Oriented-Software-Architecture-Concurrent-Networked/dp/0471606952/ref=sr_1_3?crid=G1WFXJEHYWMO&keywords=pattern+oriented+software+architecture&qid=1649182266&s=books&sprefix=pattern+oriented+software+architectur%2Cstripbooks%2C126&sr=1-3) | 978-0471606956 |
-| Michael Kircher, Prashant Jain | [Pattern-Oriented Software Architecture, Patterns for Resource Management](https://www.amazon.ca/Pattern-Oriented-Software-Architecture-Patterns-Management/dp/0470845252/ref=sr_1_1?crid=1Z3PZS8NQ8X61&keywords=pattern+oriented+software+architecture+resources&qid=1649182383&s=books&sprefix=pattern+oriented+software+architecture+resource%2Cstripbooks%2C177&sr=1-1) | 978-0470845257|
-| Frank Buschmann, Kevlon Henney, Douglas C. Schmidt | [Pattern-Oriented Software Architecture, A Pattern Language for Distributed Computing](https://www.amazon.ca/Pattern-Oriented-Software-Architecture-Distributed-Computing/dp/0470059028/ref=sr_1_5?crid=G1WFXJEHYWMO&keywords=pattern+oriented+software+architecture&qid=1649182363&s=books&sprefix=pattern+oriented+software+architectur%2Cstripbooks%2C126&sr=1-5) | 978-0470059029 |
-| Robert S. Hanmer | [Patterns for Fault Tolerant Software](https://www.amazon.ca/Patterns-Tolerant-Software-Robert-Hanmer/dp/0470319798/ref=sr_1_1?crid=15E2GYP375XB3&keywords=patterns+for+fault+tolerant&qid=1649182592&s=books&sprefix=patterns+for+fault+tolerant%2Cstripbooks%2C126&sr=1-1) | 978-0470319796 |
-| Markus Schumacher, Eduardo Fernandez-Buglioni, Duane Hybertson, Frank Buschmann, Peter Sommerland| [Security Patterns: Integrating Security and Systems Engineering](https://www.amazon.ca/Security-Patterns-Integrating-Engineering-Software-ebook/dp/B00DZLC39W/ref=sr_1_1?crid=7TMCP8LJJX7O&keywords=security+patterns&qid=1649182665&s=books&sprefix=security+patterns%2Cstripbooks%2C125&sr=1-1) | 978-0470858844 |
-| Jorge Luis Ortega-Arjona | [Patterns for Parallel Software Design](https://www.amazon.ca/Patterns-Parallel-Software-Design-Ortega-Arjona-ebook/dp/B0042JSMLE/ref=sr_1_1?crid=1AA2IPOD93AU7&keywords=jorge+luis+ortega-arjona&qid=1649183730&s=books&sprefix=jorge+luis+ortega-arjona%2Cstripbooks%2C123&sr=1-1-catcorr) | 978-0470697344 |
-| Jason Mc C. Smith | [Elemental Design Patterns](https://www.amazon.ca/Elemental-Patterns-Addison-Wesley-Professional-Computing-ebook/dp/B007NYPA6U/ref=sr_1_2?crid=MPZHHNQM1D2B&keywords=elemental+design+pattern+smith&qid=1649183924&s=books&sprefix=elemental+design+pattern+smith%2Cstripbooks%2C124&sr=1-2) | 978-0321711922 |
-
 ### Software Engineering
 | Author(s) | Title | ISBN-13 |
 | --------- | ----- | ------- |
@@ -44,6 +31,19 @@ Here is a list of books that I recommend across various topics. In most cases, I
 | Benjamin S. Blanchard | [System Engineering Management](https://www.amazon.ca/System-Engineering-Management-Benjamin-Blanchard-dp-111904782X/dp/111904782X/ref=dp_ob_title_bk) | 978-1119047827 |
 | Frederick P. Brooks Jr. | [The Mythical Man-Month](https://www.amazon.ca/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?keywords=the+mythical+man+month&qid=1649178264&s=books&sprefix=the+mythi%2Cstripbooks%2C159&sr=1-1) | 978-0201835953 |
 | Frederick P. Brooks Jr. | [The Design of Design](https://www.amazon.ca/Design-Essays-Computer-Scientist-ebook/dp/B003DKG5H6/ref=sr_1_3?qid=1649178318&refinements=p_27%3AFrederick+Brooks+Jr.&s=books&sr=1-3&text=Frederick+Brooks+Jr.) | 978-0201362985 |
+
+### Design Patterns
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Eric Gamma, Richard Helm, Ralph Johnson, John Vlissides | [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1649177187&sr=8-1) | 978-0201633610 |
+| Frank Bushmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal | [Pattern Oriented Software Architecture: A System of Patterns](https://www.amazon.ca/Pattern-Oriented-Software-Architecture-System-Patterns/dp/0471958697/ref=sr_1_2?keywords=pattern-oriented+software+architecture&qid=1649177513&sprefix=pattern+orient%2Caps%2C128&sr=8-2) | 978-0471958697 |
+| Douglas Schmidt, Michael Stal, Hans Rohnert, Frank Buschmann | [Pattern-Oriented Software Architecture, Patterns for Concurrent and Networked Objects](https://www.amazon.ca/Pattern-Oriented-Software-Architecture-Concurrent-Networked/dp/0471606952/ref=sr_1_3?crid=G1WFXJEHYWMO&keywords=pattern+oriented+software+architecture&qid=1649182266&s=books&sprefix=pattern+oriented+software+architectur%2Cstripbooks%2C126&sr=1-3) | 978-0471606956 |
+| Michael Kircher, Prashant Jain | [Pattern-Oriented Software Architecture, Patterns for Resource Management](https://www.amazon.ca/Pattern-Oriented-Software-Architecture-Patterns-Management/dp/0470845252/ref=sr_1_1?crid=1Z3PZS8NQ8X61&keywords=pattern+oriented+software+architecture+resources&qid=1649182383&s=books&sprefix=pattern+oriented+software+architecture+resource%2Cstripbooks%2C177&sr=1-1) | 978-0470845257|
+| Frank Buschmann, Kevlon Henney, Douglas C. Schmidt | [Pattern-Oriented Software Architecture, A Pattern Language for Distributed Computing](https://www.amazon.ca/Pattern-Oriented-Software-Architecture-Distributed-Computing/dp/0470059028/ref=sr_1_5?crid=G1WFXJEHYWMO&keywords=pattern+oriented+software+architecture&qid=1649182363&s=books&sprefix=pattern+oriented+software+architectur%2Cstripbooks%2C126&sr=1-5) | 978-0470059029 |
+| Robert S. Hanmer | [Patterns for Fault Tolerant Software](https://www.amazon.ca/Patterns-Tolerant-Software-Robert-Hanmer/dp/0470319798/ref=sr_1_1?crid=15E2GYP375XB3&keywords=patterns+for+fault+tolerant&qid=1649182592&s=books&sprefix=patterns+for+fault+tolerant%2Cstripbooks%2C126&sr=1-1) | 978-0470319796 |
+| Markus Schumacher, Eduardo Fernandez-Buglioni, Duane Hybertson, Frank Buschmann, Peter Sommerland| [Security Patterns: Integrating Security and Systems Engineering](https://www.amazon.ca/Security-Patterns-Integrating-Engineering-Software-ebook/dp/B00DZLC39W/ref=sr_1_1?crid=7TMCP8LJJX7O&keywords=security+patterns&qid=1649182665&s=books&sprefix=security+patterns%2Cstripbooks%2C125&sr=1-1) | 978-0470858844 |
+| Jorge Luis Ortega-Arjona | [Patterns for Parallel Software Design](https://www.amazon.ca/Patterns-Parallel-Software-Design-Ortega-Arjona-ebook/dp/B0042JSMLE/ref=sr_1_1?crid=1AA2IPOD93AU7&keywords=jorge+luis+ortega-arjona&qid=1649183730&s=books&sprefix=jorge+luis+ortega-arjona%2Cstripbooks%2C123&sr=1-1-catcorr) | 978-0470697344 |
+| Jason Mc C. Smith | [Elemental Design Patterns](https://www.amazon.ca/Elemental-Patterns-Addison-Wesley-Professional-Computing-ebook/dp/B007NYPA6U/ref=sr_1_2?crid=MPZHHNQM1D2B&keywords=elemental+design+pattern+smith&qid=1649183924&s=books&sprefix=elemental+design+pattern+smith%2Cstripbooks%2C124&sr=1-2) | 978-0321711922 |
 
 ## Computer Science
 
