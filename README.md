@@ -11,7 +11,7 @@
 
 # Recommended Books
 
-Here is a list of books that I recommend accross various topics.
+Here is a list of books that I recommend across various topics. In most cases, I link to edition of the book I have. But in some cases, that book is not longer searchable on Amazon.
 
 ## Architecture, Design Patterns, Systems Engineering
 
@@ -30,7 +30,14 @@ Here is a list of books that I recommend accross various topics.
 
 ## Computer Science
 
-TBD
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Donald Knuth | [The Art of Computer Programming, Volumes 1-4A](https://www.amazon.ca/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=sr_1_1?keywords=the+art+of+computer+programming&qid=1649180691&sprefix=the+art+of+com%2Caps%2C144&sr=8-1) | 978-0321751041 |
+| John E. Hopcroft, Jeffery D. Ullman | [Introduction to Automata Theory, Languages and Computation](https://www.amazon.ca/Introduction-Automata-Languages-Computation-Addison-Wesley/dp/020102988X/ref=sr_1_3?keywords=introduction+to+automata+theory%2C+languages%2C+and+computation&qid=1649180848&sprefix=introduction+to+au%2Caps%2C140&sr=8-3) | 978-0201029888 |
+| M. Ben-Ari | [Principles of Concurrent and Distributed Programming](https://www.amazon.ca/dp/032131283X/?coliid=I9QJ82NED67ZS&colid=2N5K3JH1Z1TXX&psc=1&ref_=lv_ov_lig_dp_it) | 978-0321312839 |
+| Nancy A. Lynch | [Distributed Algorithms](https://www.amazon.ca/Distributed-Algorithms-Nancy-Lynch/dp/1558603484/ref=sr_1_1?crid=31Q7PKX5QF3ZW&keywords=distributed+algorithms&qid=1649181112&s=books&sprefix=distributed+algorithims%2Cstripbooks%2C129&sr=1-1) | 978-1558603486 |
+| Ronald Graham, Donald Knuth, Oren PataShnik | [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.ca/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_1?keywords=concrete+mathematics&qid=1649181169&s=books&sprefix=concrete%2Cstripbooks%2C122&sr=1-1) | 978-0201558029 |
+| Ralph P. Grimaldi | [Discrete and Combinatorial Mathematics](https://www.amazon.ca/Discrete-Combinatorial-Mathematics-Classic-Version/dp/0321385020/ref=sr_1_1?qid=1649181278&refinements=p_27%3ARalph+Grimaldi&s=books&sr=1-1&text=Ralph+Grimaldi) | 978-0321385024 |
 
 ## Coding Practice
 
@@ -42,7 +49,18 @@ TBD
 | Kent Beck | [Test Driven Development: By Example](https://www.amazon.ca/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_1?keywords=test+driven+development&qid=1649179592&sprefix=Test+driven%2Caps%2C137&sr=8-1) | 978-0321146533 |
 
 ## Languages
+
 ### C and C++
+TBD
+
+### Perl
+TBD
+
+### Ruby and Rails
+TBD
+
+### Typescript
+TBD
 
 ## Security, Hacking, Pentesting
 
@@ -65,10 +83,24 @@ TBD
 
 ## Mathematics
 
-TBD
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Darrell Huff | [How To Lie with Statistics](https://www.amazon.ca/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=sr_1_1?keywords=how+to+lie+with+statistics&qid=1649180618&sprefix=how+to+lie%2Caps%2C144&sr=8-1) | 978-0393310726 |
+| Cathy O’Neil | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.ca/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=sr_1_1?keywords=weapons+of+math+destruction&qid=1649180567&sprefix=weapons+of%2Caps%2C136&sr=8-1) | 978-0553418835 |
 
 ## Databases
 
 TBD
 
 ## Debugging
+TBD
+
+## Business
+
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Geoffrey A. Moore | [Crossing the Chasm, 3rd Edition: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.amazon.ca/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1?keywords=crossing+the+chasm&qid=1649180299&sprefix=crossing%2Caps%2C146&sr=8-1) | 978-0062353948 |
+|Roger Fisher, William Ury, Bruce Patton | [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.ca/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/ref=sr_1_1?keywords=getting+to+yes&qid=1649180468&sprefix=getting+%2Caps%2C140&sr=8-1) | 978-0143118756 |
+| John Kotter | [Leading Change](https://www.amazon.ca/Leading-Change-New-Preface-Author/dp/1422186431/ref=sr_1_1?keywords=leading+change&qid=1649180370&sprefix=leading+ch%2Caps%2C136&sr=8-1) | 978-1422186435 |
+
+
