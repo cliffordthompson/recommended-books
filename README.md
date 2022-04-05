@@ -13,7 +13,7 @@
 
 Here is a list of books that I recommend accross various topics.
 
-# Architecture, Design Patterns, Systems Engineering
+## Architecture, Design Patterns, Systems Engineering
 
 | Author(s) | Title | ISBN-13 |
 | --------- | ----- | ------- |
@@ -28,11 +28,11 @@ Here is a list of books that I recommend accross various topics.
 | Martin Fowler | [UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.ca/UML-Distilled-Standard-Modeling-Language/dp/0321193687/ref=sr_1_1?keywords=uml+distilled&qid=1649179109&sprefix=UML+dis%2Caps%2C119&sr=8-1) | 978-0321193681 |
 | Steve McConnell | [Software Estimation: Demystifying the Black Art](https://www.amazon.ca/Software-Estimation-Demystifying-Black-Art/dp/0735605351/ref=sr_1_1?keywords=software+estimation&qid=1649179217&sprefix=software+est%2Caps%2C136&sr=8-1) | 978-0735605350 |
 
-# Computer Science
+## Computer Science
 
 TBD
 
-# Coding Practice
+## Coding Practice
 
 | Author(s) | Title | ISBN-13 |
 | --------- | ----- | ------- |
@@ -41,9 +41,10 @@ TBD
 | Michael C. Feathers | [Working Effectively with Legacy Code](https://www.amazon.ca/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=sr_1_1?keywords=working+effectively+with+legacy+code&qid=1649179536&sprefix=working+eff%2Caps%2C129&sr=8-1)| 978-0131177055 |
 | Kent Beck | [Test Driven Development: By Example](https://www.amazon.ca/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=sr_1_1?keywords=test+driven+development&qid=1649179592&sprefix=Test+driven%2Caps%2C137&sr=8-1) | 978-0321146533 |
 
-# C and C++
+## Languages
+### C and C++
 
-# Security, Hacking, Pentesting
+## Security, Hacking, Pentesting
 
 | Author(s) | Title | ISBN-13 |
 | --------- | ----- | ------- |
@@ -54,18 +55,20 @@ TBD
 | Simnon Singh | [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.ca/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=sr_1_1?crid=2E6YT4JHRZTR8&keywords=the+code+book&qid=1649178905&s=books&sprefix=the+code+book%2Cstripbooks%2C122&sr=1-1)| 978-0385495325 |
 | Jean-Philippe Aumasson | [Serious Cryptography: A Practical Introduction to Modern Encryption](https://www.amazon.ca/Serious-Cryptography-Practical-Introduction-Encryption/dp/1593278268/ref=sr_1_1?keywords=serious+cryptography&qid=1649178958&s=books&sprefix=serious+%2Cstripbooks%2C121&sr=1-1) | 978-1593278267 |
 
-# Unix, Linux
+## Unix, Linux
 
 TBD
 
-# Artificial Intelligence
+## Artificial Intelligence
 
 TBD
 
-# Mathematics
+## Mathematics
 
 TBD
 
-# Databases
+## Databases
 
 TBD
+
+## Debugging
