@@ -46,6 +46,7 @@ Here is a list of books that I recommend across various topics. In most cases, I
 | Markus Schumacher, Eduardo Fernandez-Buglioni, Duane Hybertson, Frank Buschmann, Peter Sommerland| [Security Patterns: Integrating Security and Systems Engineering](https://www.amazon.ca/Security-Patterns-Integrating-Engineering-Software-ebook/dp/B00DZLC39W/ref=sr_1_1?crid=7TMCP8LJJX7O&keywords=security+patterns&qid=1649182665&s=books&sprefix=security+patterns%2Cstripbooks%2C125&sr=1-1) | 978-0470858844 |
 | Jorge Luis Ortega-Arjona | [Patterns for Parallel Software Design](https://www.amazon.ca/Patterns-Parallel-Software-Design-Ortega-Arjona-ebook/dp/B0042JSMLE/ref=sr_1_1?crid=1AA2IPOD93AU7&keywords=jorge+luis+ortega-arjona&qid=1649183730&s=books&sprefix=jorge+luis+ortega-arjona%2Cstripbooks%2C123&sr=1-1-catcorr) | 978-0470697344 |
 | Jason Mc C. Smith | [Elemental Design Patterns](https://www.amazon.ca/Elemental-Patterns-Addison-Wesley-Professional-Computing-ebook/dp/B007NYPA6U/ref=sr_1_2?crid=MPZHHNQM1D2B&keywords=elemental+design+pattern+smith&qid=1649183924&s=books&sprefix=elemental+design+pattern+smith%2Cstripbooks%2C124&sr=1-2) | 978-0321711922 |
+| Martin Fowler | [Patterns of Enterprise Application Architecture](https://www.amazon.ca/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=sr_1_1?keywords=patterns+of+enterprise+application+architecture&qid=1649437891&sprefix=patterns+of+ent%2Caps%2C164&sr=8-1) | 978-0321127426 |
 
 ## Computer Science
 
