@@ -23,6 +23,8 @@ Here is a list of books that I recommend across various topics. In most cases, I
 | Martin Fowler | [UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.ca/UML-Distilled-Standard-Modeling-Language/dp/0321193687/ref=sr_1_1?keywords=uml+distilled&qid=1649179109&sprefix=UML+dis%2Caps%2C119&sr=8-1) | 978-0321193681 |
 | Steve McConnell | [Software Estimation: Demystifying the Black Art](https://www.amazon.ca/Software-Estimation-Demystifying-Black-Art/dp/0735605351/ref=sr_1_1?keywords=software+estimation&qid=1649179217&sprefix=software+est%2Caps%2C136&sr=8-1) | 978-0735605350 |
 | Mike Cohn | [User Stories Applied: For Agile Software Development](https://www.amazon.ca/User-Stories-Applied-Software-Development/dp/0321205685/ref=sr_1_1?keywords=user+stories+applied&qid=1649182028&s=books&sprefix=user+stories%2Cstripbooks%2C129&sr=1-1)| 978-0321205681 |
+| Arthur J. Riel | [Object-Oriented Design Heuristics](https://www.amazon.ca/Object-Oriented-Design-Heuristics-Arthur-Riel/dp/020163385X/ref=sr_1_1?crid=11HHX8ZSRISBN&keywords=object+oriented+heuristics&qid=1649435312&s=books&sprefix=object+orientend+heuristics%2Cstripbooks%2C158&sr=1-1) | 978-0201633856 |
+| Krysztof Czarnecki, Ulrich Eisenecker | [Generative Programming: Methods, Tools, and Applications](https://www.amazon.ca/Generative-Programming-Methods-Tools-Applications/dp/0201309777/ref=sr_1_1?crid=3RL3IFYZFY8G3&keywords=generative+programming+czarnecki&qid=1649435702&s=books&sprefix=generative+programming+czarnecki%2Cstripbooks%2C113&sr=1-1) | 978-0201309775 |
 
 ### Systems Engineering
 | Author(s) | Title | ISBN-13 |
@@ -55,6 +57,7 @@ Here is a list of books that I recommend across various topics. In most cases, I
 | Nancy A. Lynch | [Distributed Algorithms](https://www.amazon.ca/Distributed-Algorithms-Nancy-Lynch/dp/1558603484/ref=sr_1_1?crid=31Q7PKX5QF3ZW&keywords=distributed+algorithms&qid=1649181112&s=books&sprefix=distributed+algorithims%2Cstripbooks%2C129&sr=1-1) | 978-1558603486 |
 | Ronald Graham, Donald Knuth, Oren PataShnik | [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.ca/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025/ref=sr_1_1?keywords=concrete+mathematics&qid=1649181169&s=books&sprefix=concrete%2Cstripbooks%2C122&sr=1-1) | 978-0201558029 |
 | Ralph P. Grimaldi | [Discrete and Combinatorial Mathematics](https://www.amazon.ca/Discrete-Combinatorial-Mathematics-Classic-Version/dp/0321385020/ref=sr_1_1?qid=1649181278&refinements=p_27%3ARalph+Grimaldi&s=books&sr=1-1&text=Ralph+Grimaldi) | 978-0321385024 |
+| Mark A. Weiss | [Data Structures and Algorithm Analysis in C++](https://www.amazon.ca/Data-Structures-Algorithm-Analysis-2nd/dp/0201361221/ref=sr_1_3?crid=280MS27STJDPU&keywords=data+structure+and+algorithm+analysis+in+c%2B%2B&qid=1649436817&s=books&sprefix=data+structure+and+algorithm+analysis+in+c%2B%2B%2Cstripbooks%2C154&sr=1-3) | 978-0201361223 |
 
 ## Coding Practice
 
@@ -68,19 +71,44 @@ Here is a list of books that I recommend across various topics. In most cases, I
 ## Languages
 
 ### C and C++
-TBD
+
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Brian W. Kernighan, Dennis M. Ritchie | [C Programming Language](https://www.amazon.ca/Programming-Language-Brian-W-Kernighan/dp/0131103709/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1649436252&sr=1-1) | 978-0131103702 |
+| Bjarne Stroustrup | [C++ Programming Language](https://www.amazon.ca/Programming-Language-hardcover-4th/dp/0321958322/ref=sr_1_1?keywords=the+c%2B%2B+programming+language&qid=1649372339&sprefix=the+c%2B%2B%2Caps%2C126&sr=8-1) | 978-0321958327 |
+| Nicolai M. Josuttis | [C++ Standard Library, The: A Tutorial and Reference](https://www.amazon.ca/Standard-Library-Tutorial-Reference-ebook/dp/B0085MNPQ6/ref=sr_1_2?crid=K9NHKDWRXVX0&keywords=the+standard+c%2B%2B+library&qid=1649434549&sprefix=the+standard+c%2B%2B+library%2Caps%2C141&sr=8-2) | 978-0321623218 |
+| David Vandevoorde, Nicolai M. Josuttis| [C++ Templates: The Complete Guide](https://www.amazon.ca/Templates-Complete-Guide-David-Vandevoorde/dp/0201734842/ref=sr_1_2?crid=3N5SZY21QICNA&keywords=c%2B%2B+templates&qid=1649434632&s=books&sprefix=c%2B%2B+templates%2Cstripbooks%2C119&sr=1-2) | 978-0201734843 |
+| Stanley B. Lippman | [Inside the C++ Object Model](https://www.amazon.ca/Inside-Object-Model-Stanley-Lippman/dp/0201834545/ref=sr_1_1?crid=2O9CY0GOQPO1Q&keywords=inside+the+c%2B%2B+object+model&qid=1649434702&s=books&sprefix=inside+the+c%2B%2B+object+model%2Cstripbooks%2C115&sr=1-1) | 978-0201834543 |
+| Scott Meyers | [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.amazon.ca/Effective-Specific-Addison-Wesley-Professional-Computing-ebook/dp/B004V4420U/ref=sr_1_1?crid=2CP70VOM7E7PW&keywords=effective+c%2B%2B&qid=1649434797&s=books&sprefix=effective+c%2B%2B%2Cstripbooks%2C116&sr=1-1) | 978-0321334879 |
+| Scott Meyers | [More Effective C++: 35 New Ways to Improve Your Programs and Designs](https://www.amazon.ca/More-Effective-Improve-Programs-Designs/dp/020163371X/ref=sr_1_1?crid=3SBJ8U9J1L7W0&keywords=more+effective+c%2B%2B&qid=1649434979&sprefix=more+effective+%2Caps%2C121&sr=8-1) | 978-0201633719 |
+| Scott Meyers | [Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library](https://www.amazon.ca/Effective-STL-Specific-Standard-Template/dp/0201749629/ref=pd_bxgy_sccl_2/146-6518340-2928746?pd_rd_w=BeMte&pf_rd_p=19eafb8a-881a-44bb-9725-85a79b8c53d4&pf_rd_r=GD4TM7NS4Z703CDCAENJ&pd_rd_r=b3cd4d89-eb17-4c55-aebb-cd10ec6cf794&pd_rd_wg=r261D&pd_rd_i=0201749629&psc=1) | 978-0201749625 |
+| Scott Meyers | [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.ca/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_2?crid=2CP70VOM7E7PW&keywords=effective+c%2B%2B&qid=1649434865&s=books&sprefix=effective+c%2B%2B%2Cstripbooks%2C116&sr=1-2) | 978-1491903995 |
+| Andrei Alexandrescu | [Modern C++ Design: Generic Programming and Design Patterns Applied](https://www.amazon.ca/Modern-Design-Generic-Programming-Patterns/dp/0201704315/ref=pd_bxgy_sccl_2/146-6518340-2928746?pd_rd_w=iPawm&pf_rd_p=19eafb8a-881a-44bb-9725-85a79b8c53d4&pf_rd_r=68EZ3WRAPW0VF276Z3QG&pd_rd_r=36a51dbe-4951-451c-a72d-9ce03ee54413&pd_rd_wg=QUR6E&pd_rd_i=0201704315&psc=1) | 978-0201704310 |
+| Anthony Williams | [C++ Concurrency in Action: Practical Multithreading](https://www.amazon.ca/C-Concurrency-Action-Practical-Multithreading/dp/1933988770/ref=sr_1_2?keywords=c%2B%2B+concurrency+in+action&qid=1649435134&s=books&sprefix=c%2B%2B+conc%2Cstripbooks%2C132&sr=1-2) | 978-1933988771 |
+| Christopher Kormanyos | [Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming](https://www.amazon.ca/Real-Time-Efficient-Object-Oriented-Microcontroller-Programming/dp/3662567172/ref=sr_1_2?crid=P3CZGELGE9EA&keywords=real+time+c%2B%2B&qid=1649435208&s=books&sprefix=real+time+c%2B%2B%2Cstripbooks%2C118&sr=1-2) | 978-3662567173 |
+| Kurt Guntheroth | [Optimized C++: Proven Techniques for Heightened Performance](https://www.amazon.ca/Optimized-Proven-Techniques-Heightened-Performance/dp/1491922060/ref=sr_1_1?crid=28MOVN90YLTLF&keywords=optimatized+c%2B%2B&qid=1649435815&s=books&sprefix=optimatized+c%2B%2B%2Cstripbooks%2C115&sr=1-1-spell) | 978-1491922064 |
 
 ### Prolog
-TBD
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Leon S. Sterling, Ehud Y. Shapiro| [The Art of Prolog: Advanced Programming Techniques](https://www.amazon.ca/Art-Prolog-Advanced-Programming-Techniques/dp/0262193388/ref=sr_1_1?crid=1QKNM7F0FK01&keywords=the+art+of+prolog&qid=1649436665&s=books&sprefix=the+art+of+prolo%2Cstripbooks%2C141&sr=1-1) | 978-0262193382 |
 
 ### Perl
-TBD
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Larry Wall, Tom Christiansen, Jon Orwant | [Programming Perl](https://www.amazon.ca/Programming-Perl-Larry-Wall/dp/0596000278/ref=sr_1_2?crid=3NTHWHCU9E4X6&keywords=programming+perl&qid=1649436327&s=books&sprefix=programming+perl%2Cstripbooks%2C114&sr=1-2) | 978-0596000271 |
+| Damian Conway | [Perl Best Practices: Standards and Styles for Developing Maintainable Code](https://www.amazon.ca/Perl-Best-Practices-Developing-Maintainable/dp/0596001738/ref=sr_1_1?crid=34ZOKQ68746ZO&keywords=perl+best+practices&qid=1649436441&s=books&sprefix=perl+best+practices%2Cstripbooks%2C114&sr=1-1) | 978-0596001735 |
+| Tom Christiansen, Nathan Torkington| [Perl Cookbook: Solutions & Examples for Perl Programmers](https://www.amazon.ca/Perl-Cookbook-Solutions-Examples-Programmers/dp/0596003137/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1649436493&sr=1-2) | 978-0596003135 |
+| Dave Roth | [Win32 Perl Scripting: The Administrator's Handbook](https://www.amazon.ca/Win32-Perl-Scripting-Administrators-Handbook/dp/1578702151/ref=sr_1_2?crid=3C5KTQLCD83O1&keywords=win32+perl&qid=1649436587&s=books&sprefix=win32+perl%2Cstripbooks%2C119&sr=1-2) | 978-1578702152 |
 
 ### Ruby and Rails
 TBD
 
 ### Javascript
-TBD
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Douglas Crockford | [JavaScript: The Good Parts: The Good Parts](https://www.amazon.ca/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?keywords=javascript+the+good+parts&qid=1649435969&s=books&sprefix=javascript+%2Cstripbooks%2C118&sr=1-1) | 978-0596517748 |
+| Douglas Crockford | [How JavaScript Works](https://www.amazon.ca/How-JavaScript-Works-Douglas-Crockford/dp/1949815013/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1649435882&sr=1-1) | 978-1949815016 |
 
 ### Typescript
 TBD
@@ -98,7 +126,11 @@ TBD
 
 ## Unix, Linux
 
-TBD
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| W. Richard Stevens | [Advanced Programming in the UNIX Environment](https://www.amazon.ca/Advanced-Programming-UNIX-Environment-2nd/dp/0201433079/ref=sr_1_2?keywords=advanced+programming+in+the+unix+environment&qid=1649372130&sprefix=advanced+programming+in%2Caps%2C112&sr=8-2) | 978-0201433074 |
+| Maurice Bach | [Design of the UNIX Operating System](https://www.amazon.ca/Design-UNIX-Operating-System-Maurice/dp/0132017997/ref=sr_1_1?crid=36LJD690UCF9Z&keywords=design+of+the+unix+system&qid=1649372239&sprefix=design+of+the+unix+system%2Caps%2C145&sr=8-1) | 978-0132017992 |
+| Don Libes | [Exploring Expect: A Tcl-based Toolkit for Automating Interactive Programs](https://www.amazon.ca/Exploring-Expect-Tcl-based-Automating-Interactive/dp/1565920902/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1649436726&sr=1-1) | 978-1565920903 |
 
 ## Artificial Intelligence
 
@@ -116,7 +148,10 @@ TBD
 TBD
 
 ## Debugging
-TBD
+
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Mario Hewardt, Daniel Pravat| [Advanced Windows Debugging](https://www.amazon.ca/Advanced-Windows-Debugging-Mario-Hewardt/dp/0321374460/ref=sr_1_1?crid=1M8KIOTU8B6RJ&keywords=debugging+windows&qid=1649372019&sprefix=debugging+windows%2Caps%2C111&sr=8-1) | 978-0321374462 |
 
 ## Business
 
@@ -137,6 +172,8 @@ TBD
 
 ## Electronics
 
-TBD
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Christopher Kormanyos | [Real-Time C++: Efficient Object-Oriented and Template Microcontroller Programming](https://www.amazon.ca/Real-Time-Efficient-Object-Oriented-Microcontroller-Programming/dp/3662567172/ref=sr_1_2?crid=P3CZGELGE9EA&keywords=real+time+c%2B%2B&qid=1649435208&s=books&sprefix=real+time+c%2B%2B%2Cstripbooks%2C118&sr=1-2) | 978-3662567173 |
 
 
