@@ -144,8 +144,9 @@ TBD
 | Cathy O’Neil | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.ca/Weapons-Math-Destruction-Increases-Inequality/dp/0553418831/ref=sr_1_1?keywords=weapons+of+math+destruction&qid=1649180567&sprefix=weapons+of%2Caps%2C136&sr=8-1) | 978-0553418835 |
 
 ## Databases
-
-TBD
+| Author(s) | Title | ISBN-13 |
+| --------- | ----- | ------- |
+| Thomas Connolly, Carolyn Begg| [Database Systems: A Practical Approach to Design, Implementation, and Management](https://www.amazon.ca/Database-Systems-Practical-Implementation-Management/dp/0132943263/ref=sr_1_1?qid=1649437101&refinements=p_27%3ACarolyn+Begg&s=books&sr=1-1&text=Carolyn+Begg) | 978-0132943260 |
 
 ## Debugging
 
