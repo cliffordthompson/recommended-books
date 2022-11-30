@@ -164,6 +164,8 @@ TBD
 | John Kotter | [Leading Change](https://www.amazon.ca/Leading-Change-New-Preface-Author/dp/1422186431/ref=sr_1_1?keywords=leading+change&qid=1649180370&sprefix=leading+ch%2Caps%2C136&sr=8-1) | 978-1422186435 |
 | David Perkins | [King Arthur's Round Table: How Collaborative Conversations Create Smart Organizations](https://www.amazon.ca/King-Arthurs-Round-Table-Collaborative/dp/0471237728/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1649181807&sr=1-2) | 978-0471237723 |
 | Michael Lopp | [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.ca/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?keywords=managing+humans&qid=1649181888&s=books&sprefix=managing+hu%2Cstripbooks%2C128&sr=1-1) |978-1484221570 |
+| Gene Kim, Kevin Behr, George Spafford| [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://a.co/d/hsJn8cs)| 978-1942788294 |
+| Gene Kim | [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://a.co/d/66N80Il)| 978-1942788768 |
 
 ## Personal
 
